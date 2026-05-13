@@ -25,10 +25,10 @@ The dataset used in this project was obtained as part of a data analytics traini
 The best dashboard explanation format. • Business recommendations • Key Performance Indicators (KPIs) •  Dashboard Features (briefly!) • Business impact & Insights<br>
 
 6.Key Performance Indicators (KPIs):
-* Total Sales       	          $1.20M
-* Average Sales	                $141
-* Number of Items Sold	        8,523
-* Average Customer Rating	      3.9 / 5
+* Total Sales    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	          $1.20M
+* Average Sales	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              $141
+* Number of Items Sold	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       8,523
+* Average Customer Rating	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      3.9 / 5
 7. Dashboard Features:
 * Interactive slicers for outlet location, size, and product category
 * KPI cards for sales, ratings, and item counts
