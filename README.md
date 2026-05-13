@@ -1,9 +1,7 @@
 1. BLINKIT-ANALYSIS:
 ❄️ BlinKit Analytics: The Blinkit Sales Analysis Dashboard is an interactive business intelligence solution developed in Microsoft Power BI to evaluate key aspects of sales and operational performance.
-
 2. Description:
 This project analyzes sales and operational performance data for Blinkit and presents the findings through an interactive dashboard built in Microsoft Power BI. By transforming raw transactional data into clear and actionable insights, the dashboard highlights trends in product performance, outlet efficiency, and customer purchasing behavior. The analysis is intended to support data-driven decision-making and provide practical recommendations to improve business performance.
-
 3. Technology Stack:
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -11,14 +9,11 @@ The dashboard was built using the following tools and technologies:
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 • 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
 • 📁 File Format – .pbix for development and .png for dashboard previews.
-
 4. Data Source:
 The dataset used in this project was obtained as part of a data analytics training program and is widely used for educational and portfolio purposes. It is a sample dataset modeled on Blinkit retail operations and does not represent official company data.
 ** This is a practice dataset sourced from a data analytics course and does not represent official or proprietary data from Blinkit.
-
 5. Features / Highlights:
 The best dashboard explanation format. • Business recommendations • Key Performance Indicators (KPIs) •  Dashboard Features (briefly!) • Business impact & Insights
-
 6.Key Performance Indicators (KPIs):
 * Total Sales       	          $1.20M
 * Average Sales	                $141
@@ -42,7 +37,7 @@ The best dashboard explanation format. • Business recommendations • Key Perf
   * Expand successful outlet formats in high-performing markets.
   * Review underperforming categories to optimize assortment.
   * Use customer ratings to improve product quality and supplier performance.
-
+This project converted raw sales data into an interactive dashboard that provides a clear view of Blinkit's business performance. The analysis helped identify which products and outlet types generated the highest sales, how customers were purchasing across different categories, and which locations performed best.
 10. Screenshots / Demos
 Blinkit dashboard:
 https://github.com/shwetayd9559-cmd/Blinkit-Sales-Analysis/blob/main/Blinkit_proof.png
