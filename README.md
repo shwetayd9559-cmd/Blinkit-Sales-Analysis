@@ -1,3 +1,4 @@
+<img width="1262" height="503" alt="Blinkit_proof" src="https://github.com/user-attachments/assets/1d9ea89f-ab21-484a-b678-9c40900ae61d" />
 1. BLINKIT-ANALYSIS:<br>
 
 The Blinkit Sales Analysis Dashboard is an interactive business intelligence solution developed in Microsoft Power BI to evaluate key aspects of sales and operational performance.<br>
