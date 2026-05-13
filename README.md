@@ -45,4 +45,4 @@ The best dashboard explanation format. • Business recommendations • Key Perf
 
 10. Screenshots / Demos
 Blinkit dashboard:
- blinkit_proof.png
+https://github.com/shwetayd9559-cmd/Blinkit-Sales-Analysis/blob/main/Blinkit_proof.png
