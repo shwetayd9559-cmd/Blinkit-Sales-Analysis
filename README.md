@@ -1,1 +1,48 @@
-# Blinkit-Sales-Analysis
+1. BLINKIT-ANALYSIS:
+❄️ BlinKit Analytics: The Blinkit Sales Analysis Dashboard is an interactive business intelligence solution developed in Microsoft Power BI to evaluate key aspects of sales and operational performance.
+
+2. Description:
+This project analyzes sales and operational performance data for Blinkit and presents the findings through an interactive dashboard built in Microsoft Power BI. By transforming raw transactional data into clear and actionable insights, the dashboard highlights trends in product performance, outlet efficiency, and customer purchasing behavior. The analysis is intended to support data-driven decision-making and provide practical recommendations to improve business performance.
+
+3. Technology Stack:
+The dashboard was built using the following tools and technologies:
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
+• 📁 File Format – .pbix for development and .png for dashboard previews.
+
+4. Data Source:
+The dataset used in this project was obtained as part of a data analytics training program and is widely used for educational and portfolio purposes. It is a sample dataset modeled on Blinkit retail operations and does not represent official company data.
+** This is a practice dataset sourced from a data analytics course and does not represent official or proprietary data from Blinkit.
+
+5. Features / Highlights:
+The best dashboard explanation format. • Business recommendations • Key Performance Indicators (KPIs) •  Dashboard Features (briefly!) • Business impact & Insights
+
+6.Key Performance Indicators (KPIs):
+* Total Sales       	          $1.20M
+* Average Sales	                $141
+* Number of Items Sold	        8,523
+* Average Customer Rating	      3.9 / 5
+7. Dashboard Features:
+* Interactive slicers for outlet location, size, and product category
+* KPI cards for sales, ratings, and item counts
+* Product category performance analysis
+* Outlet-wise sales comparison
+* Customer purchasing insights
+* Trend analysis by outlet establishment year
+8. Key Insights:
+* Fruits & Vegetables and Snack Foods are the top-performing categories.
+* Medium-sized outlets generate the highest sales.
+* Tier 3 locations outperform Tier 1 and Tier 2 cities.
+* Supermarket Type 1 contributes the largest share of revenue.
+*  Regular-fat products account for the majority of sales.
+9. Business Recommendations:
+  * Maintain strong inventory levels for high-demand categories.
+  * Expand successful outlet formats in high-performing markets.
+  * Review underperforming categories to optimize assortment.
+  * Use customer ratings to improve product quality and supplier performance.
+
+10. Screenshots / Demos
+Blinkit dashboard:
+ blinkit_proof.png
